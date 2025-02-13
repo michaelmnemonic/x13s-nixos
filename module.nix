@@ -93,11 +93,9 @@ in
         "dtb=${dtbEfiPath}"
 
         # jhovold recommended
-        "efi=noruntime" # No longer needed if "Linux Boot" is enabled a recent version of the UEFI
         "clk_ignore_unused"
         "pd_ignore_unused"
         "arm64.nopauth"
-        # "regulator_ignore_unused" # allows for > 30 sec to load msm, at the potential cost of power
       ];
 
       initrd = {
