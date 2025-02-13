@@ -52,7 +52,7 @@ buildLinux {
 
   src = linux_jhovold_src;
   version = source.version;
-  defconfig = "johan_defconfig";
+  defconfig = "defconfig";
 
   kernelPatches = patches;
 
