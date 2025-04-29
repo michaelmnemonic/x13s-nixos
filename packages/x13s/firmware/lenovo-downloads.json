@@ -614,15 +614,15 @@
   },
   {
     "Summary": "This package provides software for the Graphics Driver to enable the Qualcomm Adreno 8cx Gen 3 device.",
-    "Title": "Qualcomm Graphics Driver for Windows 11 ARM (Version 21H2) - ThinkPad X13s Gen 1 (Type 21BX, 21BY)",
+    "Title": "Qualcomm Graphics Driver for Windows 11 ARM (Version 22H2 or later) - ThinkPad X13s Gen 1 (Type 21BX, 21BY)",
     "Files": [
       {
         "Name": "Qualcomm Graphics Driver",
         "TypeString": "EXE",
-        "SHA256": "85b174b5cb01ac6e05dcdbf4c4bff9ce71b8525f69e782825c9b5d0608e47a5a",
+        "SHA256": "270ca5f6e28e9e3a707c777e55a1878d8b3dc7c714b9174508446e5ea689c046",
         "Priority": "Critical",
-        "URL": "https://download.lenovo.com/pccbbs/mobiles/n3hdr15w.exe",
-        "Version": "30.0.3564.4300",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/n3hdr20w.exe",
+        "Version": "30.0.3851.4800",
         "Date": {
           "Unix": 1668054600000
         }
